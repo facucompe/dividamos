@@ -37,7 +37,14 @@
         }
       ],
       "createdAt": "2026-02-16T00:34:51.844Z"
+    },
+    {
+      "id": "1771205033710",
+      "name": "Casa",
+      "friends": [],
+      "expenses": [],
+      "createdAt": "2026-02-16T01:23:53.712Z"
     }
   ],
-  "activeGroupId": "1771202091844"
+  "activeGroupId": "1771205033710"
 }
