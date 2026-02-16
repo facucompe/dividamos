@@ -2,13 +2,6 @@
   "version": 2,
   "groups": [
     {
-      "id": "1771201988004",
-      "name": "My Group",
-      "friends": [],
-      "expenses": [],
-      "createdAt": "2026-02-16T00:33:08.004Z"
-    },
-    {
       "id": "1771202091844",
       "name": "test",
       "friends": [
