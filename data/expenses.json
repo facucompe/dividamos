@@ -46,7 +46,19 @@
         "Facu",
         "Cony"
       ],
-      "expenses": [],
+      "expenses": [
+        {
+          "id": "1771205075577",
+          "description": "Cena",
+          "amount": 100,
+          "paidBy": "Facu",
+          "participants": [
+            "Mama",
+            "Facu"
+          ],
+          "date": "2026-02-16T01:24:35.577Z"
+        }
+      ],
       "createdAt": "2026-02-16T01:23:53.712Z"
     }
   ],
