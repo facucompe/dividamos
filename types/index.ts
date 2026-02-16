@@ -22,3 +22,17 @@ export interface ExpenseData {
   expenses: Expense[];
   friends: string[];
 }
+
+export interface Group {
+  id: string;
+  name: string;
+  friends: string[];
+  expenses: Expense[];
+  createdAt: string;
+}
+
+export interface GroupedExpenseData {
+  version: 2;
+  groups: Group[];
+  activeGroupId: string | null;
+}
