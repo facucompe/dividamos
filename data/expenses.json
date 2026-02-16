@@ -23,6 +23,17 @@
             "mores"
           ],
           "date": "2026-02-16T00:36:04.065Z"
+        },
+        {
+          "id": "1771204828749",
+          "description": "prueba",
+          "amount": 1000,
+          "paidBy": "facu",
+          "participants": [
+            "facu",
+            "gian"
+          ],
+          "date": "2026-02-16T01:20:28.749Z"
         }
       ],
       "createdAt": "2026-02-16T00:34:51.844Z"
