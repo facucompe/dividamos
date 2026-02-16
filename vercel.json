@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build",
+  "env": {
+    "GITHUB_TOKEN": "@github_token",
+    "GITHUB_REPO": "@github_repo"
+  }
+}
