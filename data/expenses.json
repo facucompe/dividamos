@@ -37,39 +37,6 @@
         }
       ],
       "createdAt": "2026-02-16T00:34:51.844Z"
-    },
-    {
-      "id": "1771205033710",
-      "name": "Casa",
-      "friends": [
-        "Mama",
-        "Facu",
-        "Cony"
-      ],
-      "expenses": [
-        {
-          "id": "1771205075577",
-          "description": "Cena",
-          "amount": 100,
-          "paidBy": "Facu",
-          "participants": [
-            "Mama",
-            "Facu"
-          ],
-          "date": "2026-02-16T01:24:35.577Z"
-        },
-        {
-          "id": "1771205109760",
-          "description": "Regalo",
-          "amount": 50,
-          "paidBy": "Mama",
-          "participants": [
-            "Cony"
-          ],
-          "date": "2026-02-16T01:25:09.760Z"
-        }
-      ],
-      "createdAt": "2026-02-16T01:23:53.712Z"
     }
   ],
   "activeGroupId": "1771202091844"
