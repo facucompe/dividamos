@@ -37,7 +37,14 @@
         }
       ],
       "createdAt": "2026-02-16T00:34:51.844Z"
+    },
+    {
+      "id": "1772202135606",
+      "name": "cowork",
+      "friends": [],
+      "expenses": [],
+      "createdAt": "2026-02-27T14:22:15.606Z"
     }
   ],
-  "activeGroupId": "1771202091844"
+  "activeGroupId": "1772202135606"
 }
