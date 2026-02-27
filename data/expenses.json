@@ -41,7 +41,9 @@
     {
       "id": "1772202135606",
       "name": "cowork",
-      "friends": [],
+      "friends": [
+        "kiki"
+      ],
       "expenses": [],
       "createdAt": "2026-02-27T14:22:15.606Z"
     }
