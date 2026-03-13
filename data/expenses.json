@@ -47,7 +47,14 @@
       ],
       "expenses": [],
       "createdAt": "2026-02-27T14:22:15.606Z"
+    },
+    {
+      "id": "1773425087695",
+      "name": "Almuerzo",
+      "friends": [],
+      "expenses": [],
+      "createdAt": "2026-03-13T18:04:47.695Z"
     }
   ],
-  "activeGroupId": "1772202135606"
+  "activeGroupId": "1773425087695"
 }
