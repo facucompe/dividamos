@@ -85,6 +85,23 @@
             "Migue"
           ],
           "date": "2026-04-03T03:08:21.753Z"
+        },
+        {
+          "id": "1775185767781",
+          "description": "Vino ",
+          "amount": 6000,
+          "paidBy": "Mati",
+          "participants": [
+            "Mati",
+            "Miru",
+            "Flor",
+            "Migue",
+            "Andy",
+            "kiki",
+            "Martu",
+            "facu"
+          ],
+          "date": "2026-04-03T03:09:27.781Z"
         }
       ],
       "createdAt": "2026-02-27T14:22:15.606Z"
