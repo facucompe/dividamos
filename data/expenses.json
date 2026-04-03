@@ -51,7 +51,25 @@
         "Miru",
         "Mati"
       ],
-      "expenses": [],
+      "expenses": [
+        {
+          "id": "1775185674240",
+          "description": "Picada ",
+          "amount": 280000,
+          "paidBy": "Andy",
+          "participants": [
+            "kiki",
+            "facu",
+            "Andy",
+            "Martu",
+            "Mati",
+            "Miru",
+            "Flor",
+            "Migue"
+          ],
+          "date": "2026-04-03T03:07:54.240Z"
+        }
+      ],
       "createdAt": "2026-02-27T14:22:15.606Z"
     },
     {
