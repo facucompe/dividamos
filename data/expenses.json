@@ -119,6 +119,23 @@
             "Migue"
           ],
           "date": "2026-04-03T03:10:31.992Z"
+        },
+        {
+          "id": "1775186929793",
+          "description": "Vermut + Gaseosa ",
+          "amount": 27000,
+          "paidBy": "Flor",
+          "participants": [
+            "kiki",
+            "facu",
+            "Andy",
+            "Martu",
+            "Mati",
+            "Miru",
+            "Migue",
+            "Flor"
+          ],
+          "date": "2026-04-03T03:28:49.793Z"
         }
       ],
       "createdAt": "2026-02-27T14:22:15.606Z"
