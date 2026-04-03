@@ -48,24 +48,43 @@
         "Martu",
         "Migue",
         "Flor",
-        "Miru"
+        "Miru",
+        "Mati"
       ],
       "expenses": [
         {
-          "id": "1775185676736",
-          "description": "Hielo",
-          "amount": 7000,
-          "paidBy": "facu",
+          "id": "1775185674240",
+          "description": "Picada ",
+          "amount": 280000,
+          "paidBy": "Andy",
           "participants": [
             "kiki",
             "facu",
             "Andy",
             "Martu",
-            "Migue",
+            "Mati",
             "Miru",
-            "Flor"
+            "Flor",
+            "Migue"
           ],
-          "date": "2026-04-03T03:07:56.737Z"
+          "date": "2026-04-03T03:07:54.240Z"
+        },
+        {
+          "id": "1775185701753",
+          "description": "Panes y snacks",
+          "amount": 15000,
+          "paidBy": "Martu",
+          "participants": [
+            "kiki",
+            "facu",
+            "Andy",
+            "Martu",
+            "Mati",
+            "Miru",
+            "Flor",
+            "Migue"
+          ],
+          "date": "2026-04-03T03:08:21.753Z"
         }
       ],
       "createdAt": "2026-02-27T14:22:15.606Z"
