@@ -121,8 +121,8 @@
           "date": "2026-04-03T03:10:31.992Z"
         },
         {
-          "id": "1775186929793",
-          "description": "Vermut + Gaseosa ",
+          "id": "1775186962217",
+          "description": "Vermut ",
           "amount": 27000,
           "paidBy": "Flor",
           "participants": [
@@ -132,10 +132,10 @@
             "Martu",
             "Mati",
             "Miru",
-            "Migue",
-            "Flor"
+            "Flor",
+            "Migue"
           ],
-          "date": "2026-04-03T03:28:49.793Z"
+          "date": "2026-04-03T03:29:22.217Z"
         }
       ],
       "createdAt": "2026-02-27T14:22:15.606Z"
