@@ -48,26 +48,24 @@
         "Martu",
         "Migue",
         "Flor",
-        "Miru",
-        "Mati"
+        "Miru"
       ],
       "expenses": [
         {
-          "id": "1775185674240",
-          "description": "Picada ",
-          "amount": 280000,
-          "paidBy": "Andy",
+          "id": "1775185676736",
+          "description": "Hielo",
+          "amount": 7000,
+          "paidBy": "facu",
           "participants": [
             "kiki",
             "facu",
             "Andy",
             "Martu",
-            "Mati",
+            "Migue",
             "Miru",
-            "Flor",
-            "Migue"
+            "Flor"
           ],
-          "date": "2026-04-03T03:07:54.240Z"
+          "date": "2026-04-03T03:07:56.737Z"
         }
       ],
       "createdAt": "2026-02-27T14:22:15.606Z"
