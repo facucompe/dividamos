@@ -102,6 +102,23 @@
             "facu"
           ],
           "date": "2026-04-03T03:09:27.781Z"
+        },
+        {
+          "id": "1775185831992",
+          "description": "Vino ",
+          "amount": 8000,
+          "paidBy": "Miru",
+          "participants": [
+            "kiki",
+            "facu",
+            "Andy",
+            "Martu",
+            "Mati",
+            "Miru",
+            "Flor",
+            "Migue"
+          ],
+          "date": "2026-04-03T03:10:31.992Z"
         }
       ],
       "createdAt": "2026-02-27T14:22:15.606Z"
