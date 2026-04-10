@@ -243,6 +243,21 @@
             "Facu"
           ],
           "date": "2026-04-10T00:52:12.926Z"
+        },
+        {
+          "id": "1775782375601",
+          "description": "Propina",
+          "amount": 10000,
+          "paidBy": "Mati",
+          "participants": [
+            "Mir",
+            "Kiki",
+            "Andy",
+            "Facu",
+            "Migue",
+            "Mati"
+          ],
+          "date": "2026-04-10T00:52:55.601Z"
         }
       ],
       "createdAt": "2026-04-10T00:50:31.537Z"
