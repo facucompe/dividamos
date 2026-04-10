@@ -235,16 +235,6 @@
       ],
       "expenses": [
         {
-          "id": "1775782332926",
-          "description": "After",
-          "amount": 122500,
-          "paidBy": "Facu",
-          "participants": [
-            "Facu"
-          ],
-          "date": "2026-04-10T00:52:12.926Z"
-        },
-        {
           "id": "1775782375601",
           "description": "Propina",
           "amount": 10000,
