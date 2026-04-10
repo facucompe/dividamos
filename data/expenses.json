@@ -153,76 +153,6 @@
       "createdAt": "2026-03-13T18:04:47.695Z"
     },
     {
-      "id": "1775342689556",
-      "name": "San José 1111",
-      "friends": [
-        "Fitty",
-        "Facu",
-        "Meli",
-        "Flor",
-        "Ian"
-      ],
-      "expenses": [
-        {
-          "id": "1775366539641",
-          "description": "Compras dulce ",
-          "amount": 15800,
-          "paidBy": "Meli",
-          "participants": [
-            "Fitty",
-            "Facu",
-            "Meli",
-            "Flor",
-            "Ian"
-          ],
-          "date": "2026-04-05T05:22:19.642Z"
-        },
-        {
-          "id": "1775399095764",
-          "description": "Picada ",
-          "amount": 30000,
-          "paidBy": "Fitty",
-          "participants": [
-            "Fitty",
-            "Facu",
-            "Meli",
-            "Flor",
-            "Ian"
-          ],
-          "date": "2026-04-05T14:24:55.764Z"
-        },
-        {
-          "id": "1775406935217",
-          "description": "Pollo",
-          "amount": 14000,
-          "paidBy": "Facu",
-          "participants": [
-            "Fitty",
-            "Facu",
-            "Meli",
-            "Flor",
-            "Ian"
-          ],
-          "date": "2026-04-05T16:35:35.217Z"
-        },
-        {
-          "id": "1775409863325",
-          "description": "Vino + verduras + gaseosa + crema ",
-          "amount": 56200,
-          "paidBy": "Flor",
-          "participants": [
-            "Fitty",
-            "Facu",
-            "Meli",
-            "Flor",
-            "Ian"
-          ],
-          "date": "2026-04-05T17:24:23.326Z"
-        }
-      ],
-      "createdAt": "2026-04-04T22:44:49.556Z"
-    },
-    {
       "id": "1775782231537",
       "name": "Cumple Mir",
       "friends": [
@@ -282,5 +212,5 @@
       "createdAt": "2026-04-10T00:50:31.537Z"
     }
   ],
-  "activeGroupId": "1775342689556"
+  "activeGroupId": "1771202091844"
 }
