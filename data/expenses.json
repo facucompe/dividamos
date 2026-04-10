@@ -225,7 +225,9 @@
     {
       "id": "1775782231537",
       "name": "Cumple Mir",
-      "friends": [],
+      "friends": [
+        "Mir"
+      ],
       "expenses": [],
       "createdAt": "2026-04-10T00:50:31.537Z"
     }
