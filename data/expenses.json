@@ -248,6 +248,21 @@
             "Mati"
           ],
           "date": "2026-04-10T00:52:55.601Z"
+        },
+        {
+          "id": "1775782411854",
+          "description": "After",
+          "amount": 122500,
+          "paidBy": "Facu",
+          "participants": [
+            "Mir",
+            "Kiki",
+            "Andy",
+            "Facu",
+            "Migue",
+            "Mati"
+          ],
+          "date": "2026-04-10T00:53:31.854Z"
         }
       ],
       "createdAt": "2026-04-10T00:50:31.537Z"
