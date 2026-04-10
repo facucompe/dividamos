@@ -263,6 +263,20 @@
             "Mati"
           ],
           "date": "2026-04-10T00:53:31.854Z"
+        },
+        {
+          "id": "1775782446692",
+          "description": "Tortita",
+          "amount": 10000,
+          "paidBy": "Facu",
+          "participants": [
+            "Kiki",
+            "Andy",
+            "Facu",
+            "Migue",
+            "Mati"
+          ],
+          "date": "2026-04-10T00:54:06.692Z"
         }
       ],
       "createdAt": "2026-04-10T00:50:31.537Z"
