@@ -210,7 +210,14 @@
         }
       ],
       "createdAt": "2026-04-10T00:50:31.537Z"
+    },
+    {
+      "id": "1783005084229",
+      "name": "Seattle & Vancouver",
+      "friends": [],
+      "expenses": [],
+      "createdAt": "2026-07-02T15:11:24.229Z"
     }
   ],
-  "activeGroupId": "1771202091844"
+  "activeGroupId": "1783005084229"
 }
