@@ -214,7 +214,9 @@
     {
       "id": "1783005084229",
       "name": "Seattle & Vancouver",
-      "friends": [],
+      "friends": [
+        "Lucas"
+      ],
       "expenses": [],
       "createdAt": "2026-07-02T15:11:24.229Z"
     }
