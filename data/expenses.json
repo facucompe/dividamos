@@ -228,6 +228,17 @@
             "Facu"
           ],
           "date": "2026-07-06T16:19:35.256Z"
+        },
+        {
+          "id": "1783354830811",
+          "description": "Hospedaje Vancouver",
+          "amount": 950,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-07-06T16:20:30.811Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
