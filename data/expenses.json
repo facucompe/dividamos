@@ -218,7 +218,18 @@
         "Lucas",
         "Facu"
       ],
-      "expenses": [],
+      "expenses": [
+        {
+          "id": "1783354775256",
+          "description": "Vuelo Seattle-Vancouver",
+          "amount": 305,
+          "paidBy": "Lucas",
+          "participants": [
+            "Facu"
+          ],
+          "date": "2026-07-06T16:19:35.256Z"
+        }
+      ],
       "createdAt": "2026-07-02T15:11:24.229Z"
     }
   ],
