@@ -239,6 +239,17 @@
             "Facu"
           ],
           "date": "2026-07-06T16:20:30.811Z"
+        },
+        {
+          "id": "1784678796890",
+          "description": "Airbnb Seattle",
+          "amount": 1552.76,
+          "paidBy": "Lucas",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-07-22T00:06:36.890Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
