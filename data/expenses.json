@@ -250,6 +250,17 @@
             "Lucas"
           ],
           "date": "2026-07-22T00:06:36.890Z"
+        },
+        {
+          "id": "1785110654247",
+          "description": "Motel Florence",
+          "amount": 131.55,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-07-27T00:04:14.247Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
