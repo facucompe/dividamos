@@ -261,6 +261,17 @@
             "Lucas"
           ],
           "date": "2026-07-27T00:04:14.247Z"
+        },
+        {
+          "id": "1785800141378",
+          "description": "Hospedaje portland",
+          "amount": 571,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-08-03T23:35:41.378Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
