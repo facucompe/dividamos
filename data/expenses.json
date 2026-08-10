@@ -272,6 +272,17 @@
             "Lucas"
           ],
           "date": "2026-08-03T23:35:41.378Z"
+        },
+        {
+          "id": "1786321703242",
+          "description": "Excursión victoria",
+          "amount": 437.26,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-08-10T00:28:23.242Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
