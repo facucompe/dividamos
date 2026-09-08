@@ -393,6 +393,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:22:38.248Z"
+        },
+        {
+          "id": "1788834395897",
+          "description": "Wrap 7 eleven",
+          "amount": 10.9,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-08T02:26:35.897Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
