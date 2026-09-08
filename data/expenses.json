@@ -382,6 +382,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:22:01.594Z"
+        },
+        {
+          "id": "1788834158248",
+          "description": "Subte",
+          "amount": 5.27,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:22:38.248Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
