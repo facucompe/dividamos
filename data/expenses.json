@@ -437,6 +437,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:31:47.118Z"
+        },
+        {
+          "id": "1788834841422",
+          "description": "Pita Victoria",
+          "amount": 19.27,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:34:01.422Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
