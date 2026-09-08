@@ -316,6 +316,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:14:22.790Z"
+        },
+        {
+          "id": "1788833728710",
+          "description": "Entrada elevacion whistler",
+          "amount": 173.71,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-08T02:15:28.711Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
