@@ -448,6 +448,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:34:01.422Z"
+        },
+        {
+          "id": "1788834901132",
+          "description": "Metro al Hyatt",
+          "amount": 5.06,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:35:01.132Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
