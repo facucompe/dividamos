@@ -371,6 +371,17 @@
             "Lucas"
           ],
           "date": "2026-09-08T02:19:15.140Z"
+        },
+        {
+          "id": "1788834121593",
+          "description": "Parking capilano",
+          "amount": 6.77,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:22:01.594Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
