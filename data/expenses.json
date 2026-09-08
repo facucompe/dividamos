@@ -459,6 +459,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:35:01.132Z"
+        },
+        {
+          "id": "1788842589341",
+          "description": "Train post Victoria",
+          "amount": 5.06,
+          "paidBy": "Lucas",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-08T04:43:09.341Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
