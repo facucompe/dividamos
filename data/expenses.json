@@ -393,6 +393,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:22:38.248Z"
+        },
+        {
+          "id": "1788834329230",
+          "description": "Wrap ",
+          "amount": 10.99,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:25:29.230Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
