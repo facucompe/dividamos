@@ -360,6 +360,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:18:34.715Z"
+        },
+        {
+          "id": "1788833955140",
+          "description": "Entrada capilano",
+          "amount": 126.26,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-08T02:19:15.140Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
