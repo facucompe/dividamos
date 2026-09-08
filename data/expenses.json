@@ -349,6 +349,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:17:47.986Z"
+        },
+        {
+          "id": "1788833914715",
+          "description": "Parking Grouse",
+          "amount": 6.01,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:18:34.715Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
