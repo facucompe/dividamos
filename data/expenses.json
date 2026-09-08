@@ -415,6 +415,17 @@
             "Facu"
           ],
           "date": "2026-09-08T02:28:36.877Z"
+        },
+        {
+          "id": "1788834610990",
+          "description": "Galletitas camino a Whistler",
+          "amount": 8.74,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-08T02:30:10.990Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
