@@ -470,6 +470,17 @@
             "Lucas"
           ],
           "date": "2026-09-08T04:43:09.341Z"
+        },
+        {
+          "id": "1788963748282",
+          "description": "Super",
+          "amount": 15.06,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-09T14:22:28.282Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
