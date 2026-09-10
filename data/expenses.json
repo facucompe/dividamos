@@ -481,6 +481,17 @@
             "Lucas"
           ],
           "date": "2026-09-09T14:22:28.282Z"
+        },
+        {
+          "id": "1789012632728",
+          "description": "Ramen",
+          "amount": 39.48,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-10T03:57:12.728Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
