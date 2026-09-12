@@ -558,6 +558,17 @@
             "Facu"
           ],
           "date": "2026-09-12T03:04:12.986Z"
+        },
+        {
+          "id": "1789250332906",
+          "description": "Fish and chips",
+          "amount": 24.24,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-12T21:58:52.906Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
