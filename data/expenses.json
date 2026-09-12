@@ -536,6 +536,17 @@
             "Facu"
           ],
           "date": "2026-09-12T00:19:05.394Z"
+        },
+        {
+          "id": "1789179880586",
+          "description": "Auto Vancouver",
+          "amount": 197.86,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-12T02:24:40.586Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
