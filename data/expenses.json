@@ -503,6 +503,17 @@
             "Facu"
           ],
           "date": "2026-09-11T05:02:41.792Z"
+        },
+        {
+          "id": "1789172179736",
+          "description": "Super compra pequeña",
+          "amount": 15.06,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-12T00:16:19.737Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
