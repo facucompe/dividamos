@@ -569,6 +569,17 @@
             "Facu"
           ],
           "date": "2026-09-12T21:58:52.906Z"
+        },
+        {
+          "id": "1789272718585",
+          "description": "Pizza",
+          "amount": 22.1,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-13T04:11:58.585Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
