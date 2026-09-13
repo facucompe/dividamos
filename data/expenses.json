@@ -591,6 +591,17 @@
             "Lucas"
           ],
           "date": "2026-09-13T14:50:59.401Z"
+        },
+        {
+          "id": "1789311081231",
+          "description": "Motel 6",
+          "amount": 148,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-13T14:51:21.231Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
