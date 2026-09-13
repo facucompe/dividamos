@@ -580,6 +580,17 @@
             "Facu"
           ],
           "date": "2026-09-13T04:11:58.585Z"
+        },
+        {
+          "id": "1789311059401",
+          "description": "Nafta",
+          "amount": 40,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-13T14:50:59.401Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
