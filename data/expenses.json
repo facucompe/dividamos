@@ -613,6 +613,17 @@
             "Facu"
           ],
           "date": "2026-09-14T18:45:20.022Z"
+        },
+        {
+          "id": "1789426890574",
+          "description": "Almuerzo Salem",
+          "amount": 36,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-14T23:01:30.574Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
