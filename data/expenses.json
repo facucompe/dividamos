@@ -635,6 +635,17 @@
             "Facu"
           ],
           "date": "2026-09-15T01:13:38.090Z"
+        },
+        {
+          "id": "1789529689254",
+          "description": "Parking",
+          "amount": 3.79,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-16T03:34:49.254Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
