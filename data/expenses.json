@@ -668,6 +668,17 @@
             "Facu"
           ],
           "date": "2026-09-18T03:37:49.569Z"
+        },
+        {
+          "id": "1789763599770",
+          "description": "Loabster",
+          "amount": 54.18,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-18T20:33:19.770Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
