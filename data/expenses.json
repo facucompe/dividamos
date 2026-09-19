@@ -679,16 +679,6 @@
             "Facu"
           ],
           "date": "2026-09-18T20:33:19.770Z"
-        },
-        {
-          "id": "1789782931512",
-          "description": "Efectivo",
-          "amount": 20,
-          "paidBy": "Facu",
-          "participants": [
-            "Lucas"
-          ],
-          "date": "2026-09-19T01:55:31.512Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
