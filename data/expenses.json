@@ -756,6 +756,17 @@
             "Facu"
           ],
           "date": "2026-09-22T04:22:17.126Z"
+        },
+        {
+          "id": "1790053946852",
+          "description": "Cena poke",
+          "amount": 46.76,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-22T05:12:26.852Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
