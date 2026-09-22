@@ -745,6 +745,17 @@
             "Facu"
           ],
           "date": "2026-09-22T04:21:56.284Z"
+        },
+        {
+          "id": "1790050937126",
+          "description": "Entradas Futbol",
+          "amount": 89.99,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-22T04:22:17.126Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
