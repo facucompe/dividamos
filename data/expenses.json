@@ -767,6 +767,17 @@
             "Facu"
           ],
           "date": "2026-09-22T05:12:26.852Z"
+        },
+        {
+          "id": "1790134798861",
+          "description": "Nasta",
+          "amount": 50,
+          "paidBy": "Facu",
+          "participants": [
+            "Facu",
+            "Lucas"
+          ],
+          "date": "2026-09-23T03:39:58.861Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
