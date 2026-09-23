@@ -778,6 +778,17 @@
             "Lucas"
           ],
           "date": "2026-09-23T03:39:58.861Z"
+        },
+        {
+          "id": "1790135884427",
+          "description": "Pizza",
+          "amount": 5,
+          "paidBy": "Lucas",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-09-23T03:58:04.427Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
