@@ -833,6 +833,17 @@
             "Lucas"
           ],
           "date": "2026-09-25T13:31:19.860Z"
+        },
+        {
+          "id": "1791839958411",
+          "description": "Auto",
+          "amount": 575,
+          "paidBy": "Facu",
+          "participants": [
+            "Lucas",
+            "Facu"
+          ],
+          "date": "2026-10-12T21:19:18.411Z"
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
