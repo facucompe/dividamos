@@ -901,17 +901,19 @@
           "date": "2026-11-02T15:15:01.795Z"
         },
         {
-          "id": "1793632585054",
-          "description": "Bajon",
-          "amount": 50000,
-          "paidBy": "Flor",
+          "id": "1793632841912",
+          "description": "Uber Ida (Facu, Vero y Migue) ",
+          "amount": 21184.64,
+          "paidBy": "Migue",
           "participants": [
             "Mir",
+            "Facu",
+            "Vero",
+            "Kiki",
             "Flor",
-            "Migue",
-            "Kiki"
+            "Migue"
           ],
-          "date": "2026-11-02T15:16:25.054Z"
+          "date": "2026-11-02T15:20:41.912Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
