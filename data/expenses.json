@@ -847,7 +847,14 @@
         }
       ],
       "createdAt": "2026-07-02T15:11:24.229Z"
+    },
+    {
+      "id": "1793631740012",
+      "name": "Jodita jalowin",
+      "friends": [],
+      "expenses": [],
+      "createdAt": "2026-11-02T15:02:20.012Z"
     }
   ],
-  "activeGroupId": "1783005084229"
+  "activeGroupId": "1793631740012"
 }
