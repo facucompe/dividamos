@@ -929,6 +929,19 @@
             "Migue"
           ],
           "date": "2026-11-02T15:23:50.138Z"
+        },
+        {
+          "id": "1793633300030",
+          "description": "Bajón ",
+          "amount": 50000,
+          "paidBy": "Flor",
+          "participants": [
+            "Mir",
+            "Flor",
+            "Kiki",
+            "Migue"
+          ],
+          "date": "2026-11-02T15:28:20.030Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
