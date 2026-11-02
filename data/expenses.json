@@ -874,6 +874,18 @@
             "Vero"
           ],
           "date": "2026-11-02T15:07:30.744Z"
+        },
+        {
+          "id": "1793632450770",
+          "description": "uber ida ",
+          "amount": 26791,
+          "paidBy": "Kiki",
+          "participants": [
+            "Kiki",
+            "Flor",
+            "Mir"
+          ],
+          "date": "2026-11-02T15:14:10.770Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
