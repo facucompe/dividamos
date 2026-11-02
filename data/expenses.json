@@ -914,6 +914,21 @@
             "Migue"
           ],
           "date": "2026-11-02T15:20:41.912Z"
+        },
+        {
+          "id": "1793633030138",
+          "description": "Uber vuelta ",
+          "amount": 28578,
+          "paidBy": "Migue",
+          "participants": [
+            "Mir",
+            "Facu",
+            "Kiki",
+            "Vero",
+            "Flor",
+            "Migue"
+          ],
+          "date": "2026-11-02T15:23:50.138Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
