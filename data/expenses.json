@@ -888,17 +888,17 @@
           "date": "2026-11-02T15:14:10.770Z"
         },
         {
-          "id": "1793632484496",
-          "description": "Bajon",
-          "amount": 50000,
-          "paidBy": "Flor",
+          "id": "1793632501795",
+          "description": "uber vuelta ",
+          "amount": 37426,
+          "paidBy": "Kiki",
           "participants": [
             "Mir",
-            "Kiki",
-            "Migue",
-            "Flor"
+            "Flor",
+            "Facu",
+            "Kiki"
           ],
-          "date": "2026-11-02T15:14:44.496Z"
+          "date": "2026-11-02T15:15:01.795Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
