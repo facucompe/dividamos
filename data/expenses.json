@@ -859,7 +859,23 @@
         "Kiki",
         "Vero"
       ],
-      "expenses": [],
+      "expenses": [
+        {
+          "id": "1793632050744",
+          "description": "Gin volcado",
+          "amount": 160000,
+          "paidBy": "Flor",
+          "participants": [
+            "Mir",
+            "Facu",
+            "Flor",
+            "Kiki",
+            "Migue",
+            "Vero"
+          ],
+          "date": "2026-11-02T15:07:30.744Z"
+        }
+      ],
       "createdAt": "2026-11-02T15:02:20.012Z"
     }
   ],
