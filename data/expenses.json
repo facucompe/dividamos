@@ -874,6 +874,19 @@
             "Vero"
           ],
           "date": "2026-11-02T15:07:30.744Z"
+        },
+        {
+          "id": "1793632070644",
+          "description": "Bajon",
+          "amount": 5000,
+          "paidBy": "Flor",
+          "participants": [
+            "Mir",
+            "Kiki",
+            "Migue",
+            "Flor"
+          ],
+          "date": "2026-11-02T15:07:50.644Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
