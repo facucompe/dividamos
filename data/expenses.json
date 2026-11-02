@@ -874,48 +874,10 @@
             "Vero"
           ],
           "date": "2026-11-02T15:07:30.744Z"
-        },
-        {
-          "id": "1793632070644",
-          "description": "Bajon",
-          "amount": 5000,
-          "paidBy": "Flor",
-          "participants": [
-            "Mir",
-            "Kiki",
-            "Migue",
-            "Flor"
-          ],
-          "date": "2026-11-02T15:07:50.644Z"
-        },
-        {
-          "id": "1793632139246",
-          "description": "Uber ida",
-          "amount": 26791,
-          "paidBy": "Kiki",
-          "participants": [
-            "Flor",
-            "Mir",
-            "Kiki"
-          ],
-          "date": "2026-11-02T15:08:59.246Z"
-        },
-        {
-          "id": "1793632189548",
-          "description": "Uber vuelta ",
-          "amount": 37425,
-          "paidBy": "Kiki",
-          "participants": [
-            "Mir",
-            "Facu",
-            "Flor",
-            "Kiki"
-          ],
-          "date": "2026-11-02T15:09:49.548Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
     }
   ],
-  "activeGroupId": "1793631740012"
+  "activeGroupId": "1783005084229"
 }
