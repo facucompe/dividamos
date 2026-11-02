@@ -899,6 +899,19 @@
             "Kiki"
           ],
           "date": "2026-11-02T15:15:01.795Z"
+        },
+        {
+          "id": "1793632585054",
+          "description": "Bajon",
+          "amount": 50000,
+          "paidBy": "Flor",
+          "participants": [
+            "Mir",
+            "Flor",
+            "Migue",
+            "Kiki"
+          ],
+          "date": "2026-11-02T15:16:25.054Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
