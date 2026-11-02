@@ -899,6 +899,19 @@
             "Kiki"
           ],
           "date": "2026-11-02T15:08:59.246Z"
+        },
+        {
+          "id": "1793632189548",
+          "description": "Uber vuelta ",
+          "amount": 37425,
+          "paidBy": "Kiki",
+          "participants": [
+            "Mir",
+            "Facu",
+            "Flor",
+            "Kiki"
+          ],
+          "date": "2026-11-02T15:09:49.548Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
