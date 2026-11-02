@@ -901,21 +901,6 @@
           "date": "2026-11-02T15:15:01.795Z"
         },
         {
-          "id": "1793633030138",
-          "description": "Uber vuelta ",
-          "amount": 28578,
-          "paidBy": "Migue",
-          "participants": [
-            "Mir",
-            "Facu",
-            "Kiki",
-            "Vero",
-            "Flor",
-            "Migue"
-          ],
-          "date": "2026-11-02T15:23:50.138Z"
-        },
-        {
           "id": "1793633300030",
           "description": "Bajón ",
           "amount": 50000,
