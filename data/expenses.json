@@ -927,6 +927,18 @@
             "Migue"
           ],
           "date": "2026-11-02T15:28:20.030Z"
+        },
+        {
+          "id": "1793633428432",
+          "description": "Uber ida ",
+          "amount": 21184.64,
+          "paidBy": "Migue",
+          "participants": [
+            "Vero",
+            "Migue",
+            "Facu"
+          ],
+          "date": "2026-11-02T15:30:28.432Z"
         }
       ],
       "createdAt": "2026-11-02T15:02:20.012Z"
